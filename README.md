@@ -162,10 +162,10 @@ The application uses **Java File Handling** to securely store records in `.dat` 
 
 # 👩‍💻 <font size="6">Developed By</font>
 
-## <font size="5">Ananya Surendra Kale</font>
+## <font size="5">Aditya Bhale</font>
 
 🔗 <font size="4">GitHub Profile:</font>  
-https://github.com/Anannya1804
+https://github.com/Aadi6631
 
 ---
 
