@@ -1,4 +1,3 @@
-# Placement-Management-System-Java-
 <div align="center">
 
 # 🚀 <font size="7">Placement Management System</font>
@@ -163,10 +162,11 @@ The application uses **Java File Handling** to securely store records in `.dat` 
 
 # 👩‍💻 <font size="6">Developed By</font>
 
-## <font size="5">Aditya Rahul Bhale</font>
+## <font size="5">Ananya Surendra Kale</font>
 
 🔗 <font size="4">GitHub Profile:</font>  
-https://github.com/Aadi6631
+https://github.com/Anannya1804
+
 ---
 
 <div align="center">
